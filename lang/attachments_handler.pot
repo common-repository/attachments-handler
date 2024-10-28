@@ -1,0 +1,482 @@
+Content-Transfer-Encoding: 8bit
+
+#: attachments-handler.php:322
+#@ attachments_handler
+msgid "Attachments Handler"
+msgstr ""
+
+#: attachments-handler.php:450
+#@ attachments_handler
+msgid "Force analysis"
+msgstr ""
+
+#: attachments-handler.php:452
+#@ attachments_handler
+msgid "Stop analysis"
+msgstr ""
+
+#: attachments-handler.php:454
+#@ attachments_handler
+msgid "Reset all entries"
+msgstr ""
+
+#: attachments-handler.php:457
+#@ attachments_handler
+msgid "Attachments issues"
+msgstr ""
+
+#: attachments-handler.php:465
+#@ attachments_handler
+msgid "Ignored issues"
+msgstr ""
+
+#: attachments-handler.php:471
+#: attachments-handler.php:1273
+#: attachments-handler.php:1349
+#: attachments-handler.php:1424
+#@ attachments_handler
+msgid "Title of the file"
+msgstr ""
+
+#: attachments-handler.php:471
+#@ attachments_handler
+msgid "Description of the file"
+msgstr ""
+
+#: attachments-handler.php:471
+#@ attachments_handler
+msgid "File in used"
+msgstr ""
+
+#: attachments-handler.php:508
+#: attachments-handler.php:582
+#: attachments-handler.php:1287
+#: attachments-handler.php:1366
+#@ attachments_handler
+msgid "No title"
+msgstr ""
+
+#: attachments-handler.php:511
+#: attachments-handler.php:524
+#: attachments-handler.php:585
+#: attachments-handler.php:598
+#: attachments-handler.php:787
+#: attachments-handler.php:809
+#: attachments-handler.php:1290
+#: attachments-handler.php:1301
+#: attachments-handler.php:1369
+#: attachments-handler.php:1380
+#: attachments-handler.php:1433
+#@ attachments_handler
+msgid "Edit"
+msgstr ""
+
+#: attachments-handler.php:518
+#: attachments-handler.php:592
+#: attachments-handler.php:1297
+#: attachments-handler.php:1376
+#@ attachments_handler
+msgid "(Not used)"
+msgstr ""
+
+#: attachments-handler.php:536
+#@ attachments_handler
+msgid "All links"
+msgstr ""
+
+#: attachments-handler.php:543
+#@ attachments_handler
+msgid "Title of the image"
+msgstr ""
+
+#: attachments-handler.php:543
+#@ attachments_handler
+msgid "Image"
+msgstr ""
+
+#: attachments-handler.php:543
+#@ attachments_handler
+msgid "Metadata"
+msgstr ""
+
+#: attachments-handler.php:543
+#@ attachments_handler
+msgid "Image in..."
+msgstr ""
+
+#: attachments-handler.php:608
+#@ attachments_handler
+msgid "Dimension: %s"
+msgstr ""
+
+#: attachments-handler.php:609
+#@ attachments_handler
+msgid "Sizes:"
+msgstr ""
+
+#: attachments-handler.php:613
+#@ attachments_handler
+msgid "Meta data:"
+msgstr ""
+
+#: attachments-handler.php:635
+#@ attachments_handler
+msgid "Regenerate the Thumbnails"
+msgstr ""
+
+#: attachments-handler.php:637
+#@ attachments_handler
+msgid "Stop Regeneration"
+msgstr ""
+
+#: attachments-handler.php:642
+#@ attachments_handler
+msgid "Images"
+msgstr ""
+
+#: attachments-handler.php:647
+#@ attachments_handler
+msgid "Analysis of"
+msgstr ""
+
+#: attachments-handler.php:648
+#@ attachments_handler
+msgid "Type of page to be analysed:"
+msgstr ""
+
+#: attachments-handler.php:650
+#@ attachments_handler
+msgid "Appearence"
+msgstr ""
+
+#: attachments-handler.php:651
+#@ attachments_handler
+msgid "Default title:"
+msgstr ""
+
+#: attachments-handler.php:652
+#@ attachments_handler
+msgid "The HTML displayed for the shortcode:"
+msgstr ""
+
+#: attachments-handler.php:653
+#: attachments-handler.php:656
+#: attachments-handler.php:659
+#@ attachments_handler
+msgid "The default value is:"
+msgstr ""
+
+#: attachments-handler.php:655
+#@ attachments_handler
+msgid "The HTML displayed for each entry of the list:"
+msgstr ""
+
+#: attachments-handler.php:658
+#@ attachments_handler
+msgid "The CSS used for the shortcode:"
+msgstr ""
+
+#: attachments-handler.php:662
+#@ attachments_handler
+msgid "Advanced"
+msgstr ""
+
+#: attachments-handler.php:663
+#@ attachments_handler
+msgid "Max number of post to be checked when an analysis is forced:"
+msgstr ""
+
+#: attachments-handler.php:664
+#@ attachments_handler
+msgid "Number of minutes between two background check:"
+msgstr ""
+
+#: attachments-handler.php:668
+#@ attachments_handler
+msgid "Parameters"
+msgstr ""
+
+#: attachments-handler.php:672
+#@ attachments_handler
+msgid "There is two different ways to analyze the attachments:"
+msgstr ""
+
+#: attachments-handler.php:674
+#@ attachments_handler
+msgid "an automatic process (namely background process):"
+msgstr ""
+
+#: attachments-handler.php:676
+#@ attachments_handler
+msgid "Every time a user visits a page of the frontside of your website, a verification of the attachments related to this page is performed;"
+msgstr ""
+
+#: attachments-handler.php:677
+#@ attachments_handler
+msgid "In order to limit the load of the website, you may configure in the parameter tab the minimum number of minutes bewteen to background check;"
+msgstr ""
+
+#: attachments-handler.php:678
+#@ attachments_handler
+msgid "Note that if you have very few visits, the complete check of all attachments may be quite long."
+msgstr ""
+
+#: attachments-handler.php:680
+#@ attachments_handler
+msgid "a forced process:"
+msgstr ""
+
+#: attachments-handler.php:682
+#@ attachments_handler
+msgid "The button that triggers this forced process may be found in the Attachments issues tabs;"
+msgstr ""
+
+#: attachments-handler.php:683
+#@ attachments_handler
+msgid "You have to stay on that page for processing all attachments: if you go on another page (or if you reload the page), the process will be stopped."
+msgstr ""
+
+#: attachments-handler.php:686
+#@ attachments_handler
+msgid "How the attachments are checked?"
+msgstr ""
+
+#: attachments-handler.php:688
+#@ attachments_handler
+msgid "Some attachments may be listed in the Attachments issues tab but you are sure that the attachments are used somewhere."
+msgstr ""
+
+#: attachments-handler.php:689
+#@ attachments_handler
+msgid "This could happen if the attachments are not used in a page or a post but, for instance, in your theme or in a plugin."
+msgstr ""
+
+#: attachments-handler.php:690
+#@ attachments_handler
+msgid "If so, just ignore the warning with the appropriate link."
+msgstr ""
+
+#: attachments-handler.php:691
+#@ attachments_handler
+msgid "False positive?"
+msgstr ""
+
+#: attachments-handler.php:693
+#@ attachments_handler
+msgid "This plugin enables the supervision of your attachements."
+msgstr ""
+
+#: attachments-handler.php:694
+#@ attachments_handler
+msgid "You may supervize your attachements, detect duplicates files with different names, detect unused files..."
+msgstr ""
+
+#: attachments-handler.php:695
+#@ attachments_handler
+msgid "Purpose of that plugin"
+msgstr ""
+
+#: attachments-handler.php:697
+#@ attachments_handler
+msgid "To add the list of used attachments in the post/page or in the child posts/pages, you may used a shortcode like %s."
+msgstr ""
+
+#: attachments-handler.php:698
+#@ attachments_handler
+msgid "A button that add this code is available in the post/page editor."
+msgstr ""
+
+#: attachments-handler.php:700
+#@ attachments_handler
+msgid "%s: set this option to 1 if you want to display all attachments used in this page and in all child pages, otherwise set this option to 0."
+msgstr ""
+
+#: attachments-handler.php:701
+#@ attachments_handler
+msgid "%s: set this option to 1 if you want to display the list only for the admin (this can be used for configuring the plugin without any impact on the users)."
+msgstr ""
+
+#: attachments-handler.php:702
+#@ attachments_handler
+msgid "%s: list the attachments extension you want to list."
+msgstr ""
+
+#: attachments-handler.php:704
+#@ attachments_handler
+msgid "Create a list of used attachments"
+msgstr ""
+
+#: attachments-handler.php:710
+#@ attachments_handler
+msgid "How To"
+msgstr ""
+
+#: attachments-handler.php:718
+#@ attachments_handler
+msgid "Manage translations"
+msgstr ""
+
+#: attachments-handler.php:725
+#@ attachments_handler
+msgid "Give feedback"
+msgstr ""
+
+#: attachments-handler.php:733
+#@ attachments_handler
+msgid "Other plugins"
+msgstr ""
+
+#: attachments-handler.php:872
+#@ attachments_handler
+msgid "Only %s seconds since the last computation: please wait!"
+msgstr ""
+
+#: attachments-handler.php:1195
+#@ attachments_handler
+msgid "No post/article to check."
+msgstr ""
+
+#: attachments-handler.php:1239
+#@ attachments_handler
+msgid "%s posts/articles have been analysed while there is %s posts/articles to be analysed (%s links found)."
+msgstr ""
+
+#: attachments-handler.php:1240
+#@ attachments_handler
+msgid "If all posts/articles have not been analysed, the results cannot be displayed ... Thus, wait or force the verification!"
+msgstr ""
+
+#: attachments-handler.php:1257
+#@ attachments_handler
+msgid "Each of the %s posts/articles has been analysed (%s links found)."
+msgstr ""
+
+#: attachments-handler.php:1262
+#@ attachments_handler
+msgid "Missing files"
+msgstr ""
+
+#: attachments-handler.php:1268
+#@ attachments_handler
+msgid "The following files have been deleted on the hard disk but is still registered by Wordpress."
+msgstr ""
+
+#: attachments-handler.php:1269
+#@ attachments_handler
+msgid "You have to modify the post/page and thus to remove this file from the media manager."
+msgstr ""
+
+#: attachments-handler.php:1273
+#: attachments-handler.php:1349
+#@ attachments_handler
+msgid "This file is used in"
+msgstr ""
+
+#: attachments-handler.php:1311
+#: attachments-handler.php:1390
+#: attachments-handler.php:1439
+#@ attachments_handler
+msgid "Ignore"
+msgstr ""
+
+#: attachments-handler.php:1311
+#: attachments-handler.php:1390
+#: attachments-handler.php:1439
+#@ attachments_handler
+msgid "Do you want to ignore this entry?"
+msgstr ""
+
+#: attachments-handler.php:1313
+#: attachments-handler.php:1392
+#: attachments-handler.php:1441
+#@ attachments_handler
+msgid "Do not Ignore"
+msgstr ""
+
+#: attachments-handler.php:1313
+#: attachments-handler.php:1392
+#: attachments-handler.php:1441
+#@ attachments_handler
+msgid "Do you want not to ignore this entry?"
+msgstr ""
+
+#: attachments-handler.php:1321
+#@ attachments_handler
+msgid "No missing files."
+msgstr ""
+
+#: attachments-handler.php:1323
+#@ attachments_handler
+msgid "No missing files ignored."
+msgstr ""
+
+#: attachments-handler.php:1329
+#@ attachments_handler
+msgid "Duplicate files"
+msgstr ""
+
+#: attachments-handler.php:1335
+#@ attachments_handler
+msgid "The following files are duplicated on the hard disk."
+msgstr ""
+
+#: attachments-handler.php:1336
+#@ attachments_handler
+msgid "You have to modify the post/page and thus to remove the extras files from the media manager."
+msgstr ""
+
+#: attachments-handler.php:1404
+#@ attachments_handler
+msgid "No duplicate files."
+msgstr ""
+
+#: attachments-handler.php:1406
+#@ attachments_handler
+msgid "No duplicate files ignored."
+msgstr ""
+
+#: attachments-handler.php:1412
+#@ attachments_handler
+msgid "Files in media manager by not used"
+msgstr ""
+
+#: attachments-handler.php:1419
+#@ attachments_handler
+msgid "The following files exists on the disk but does not seems to be used ..."
+msgstr ""
+
+#: attachments-handler.php:1420
+#@ attachments_handler
+msgid "You may remove them from the media manager."
+msgstr ""
+
+#: attachments-handler.php:1451
+#@ attachments_handler
+msgid "No unused files."
+msgstr ""
+
+#: attachments-handler.php:1453
+#@ attachments_handler
+msgid "No unused files ignored."
+msgstr ""
+
+#: attachments-handler.php:1566
+#@ attachments_handler
+msgid "The file %s does not exist for the image with id %s."
+msgstr ""
+
+#: attachments-handler.php:1570
+#@ attachments_handler
+msgid "The regeneration for %s fails with the following message: %s."
+msgstr ""
+
+#: attachments-handler.php:1572
+#@ attachments_handler
+msgid "The regeneration for %s fails with an unknown error."
+msgstr ""
+
+#: attachments-handler.php:1574
+#@ attachments_handler
+msgid "The file %s is regenerated."
+msgstr ""
+
